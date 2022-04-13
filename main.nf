@@ -33,7 +33,7 @@ nextflow.enable.dsl = 2
 ========================================================================================
 */
 
-include { ASSOCIATIONS } from './workflows/associations'
+// include { ASSOCIATIONS } from './workflows/associations'
 include { STAAR } from './workflows/staar'
 
 //
